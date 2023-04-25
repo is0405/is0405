@@ -25,40 +25,10 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/is0405/is0405/main/profile-summary-card-output/onedark/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/is0405/is0405/main/profile-summary-card-output/onedark/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/is0405/is0405/main/profile-summary-card-output/onedark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/is0405/is0405/main/profile-summary-card-output/onedark/4-productive-time.svg)
 ```
 
     
